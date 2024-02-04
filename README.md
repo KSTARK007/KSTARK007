@@ -4,12 +4,11 @@ Hi 👋 My name is Kiran Hombal
 System Programmer ( Linux and ESXi Kernel )
 -------------------------------------------
 
-Bachelor's degree in computer science with a specialization in core systems and networking. Currently working on ESXi kernel at VMware as a full-time employee and on Linux kernel (MMU) as a hobby.
+Pursuing PhD in computer science with a specialization in Distributed Systems and Storage Systems from the University of Illinois Urbana-Champaign.
 
-* 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [kiranhombal98@gmail.com](mailto:kiranhombal98@gmail.com) or +91 8861064998
-* 🧠  I'm learning linux kernel development.
-* 🤝  I'm open to collaborating on any interesting project
+* 🌍  Currently on UIUC campus, focusing on research in the domain of Distributed storage systems, RDMA, Linux kernel and CXL. 
+* ✉️  You can contact me at [kiranhombal98@gmail.com](mailto:kiranhombal98@gmail.com).
+* 🤝  I'm open to collaborating on any interesting project.
 * ⚡  I love systems and wish to be a professor in the domain one day.
 
 <a href="https://www.github.com/KSTARK007" target="_blank" rel="noreferrer"><img

@@ -6,10 +6,12 @@ System Programmer ( Linux and ESXi Kernel )
 
 Pursuing PhD in computer science with a specialization in Distributed Systems and Storage Systems from the University of Illinois Urbana-Champaign.
 
+* ⚡  I Have 4+ years of experience, working with distributred systems and kernels focusing on Distributed Storage (NVMeOF, iSCSI) and Memory Management Unit (PageCaching) components.
+* ⚡⚡ 3 and 1/2 as a Kernel developer at VMware, 6+ months as a Researcher at UIUC.
 * 🌍  Currently on UIUC campus, focusing on research in the domain of Distributed storage systems, RDMA, Linux kernel and CXL. 
-* ✉️  You can contact me at [kiranhombal98@gmail.com](mailto:kiranhombal98@gmail.com).
+* ✉️  You can contact me at [kiranhombal98@gmail.com](mailto:kiranhombal98@gmail.com).
 * 🤝  I'm open to collaborating on any interesting project.
-* ⚡  I love systems and wish to be a professor in the domain one day.
+* ⚡  I love systems domain and wish to be a professor in the domain one day.
 
 <a href="https://www.github.com/KSTARK007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KSTARK007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
